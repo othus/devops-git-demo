@@ -7,3 +7,5 @@ Devops git demo
        git config  --global user.email "<useremail>" 
        git config --list
     git init
+
+    git branch --list
