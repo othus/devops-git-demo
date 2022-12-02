@@ -50,3 +50,4 @@ Devops git demo
    git status
    git push
    git push origin local-test-branch
+   git branch --list
